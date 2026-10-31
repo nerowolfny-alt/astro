@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-*Astrologia delle Trasformazioni Sociali e Culturali*
+**Astrologia delle Trasformazioni Sociali e Culturali**
 
-**Cicli astrologici e della storia degli sconfitti: un'astrologia politica e mondiale per chi ha voglia di un comunismo gentile.**
+****Cicli astrologici e della storia degli sconfitti, degli estromessi, degli esclusi e di chi non ha voce: un'astrologia politica e mondiale per chi ha voglia di un comunismo gentile.***
 
 Appunti, idee e riflessioni.
 [[Incipit\|Incipit]]
