@@ -2,7 +2,11 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-#
+`<style> 
+   /* Stili specifici per la Home Page */ .hero-box { background-color: #0b0b10; border-left: 4px solid #e3a638; padding: 2rem; border-radius: 8px; margin-bottom: 2rem; }
+    .hero-title-custom { color: #ffffff; font-size: 2.2rem; font-weight: bold; }
+     </style> <div class="hero-box">
+     </div>`
 
 **Astrologia delle Trasformazioni Sociali e Culturali**
 
