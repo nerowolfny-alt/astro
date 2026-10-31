@@ -7,7 +7,8 @@
 
 Ciao! Questo è il mio giardino digitale: uno spazio in continua crescita dove raccolgo appunti, idee e riflessioni.
 Articoli pubblicati: [[Plutone e Urano\|Plutone e Urano]]
-## 📚 Cosa trovi qui
+
+ 📚 Cosa trovi qui
 
 - **Note** — pensieri in evoluzione, non articoli finiti
 - **Riflessioni** — spunti da libri, articoli e conversazioni
@@ -15,7 +16,7 @@ Articoli pubblicati: [[Plutone e Urano\|Plutone e Urano]]
 
 ## 🧭 Da dove iniziare
 
-Esplora liberamente: le note sono collegate tra loro e crescono nel tempo. Alcune sono "matura", altre sono solo semi appena piantati.
+Esplora liberamente: le note sono collegate tra loro e crescono nel tempo. Alcune sono "matura", altre sono solo semi appena piantati. [[Incipit\|Incipit]]
 
 > "Un giardino digitale non è un blog: è un luogo che coltivi nel tempo."
 
