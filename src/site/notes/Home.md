@@ -3,22 +3,20 @@
 ---
 
 
-# 🌱 Benvenuto nel mio Digital Garden
+# 🌱 Astrologia delle Trasformazioni Sociali e Culturali
 
-Ciao! Questo è il mio giardino digitale: uno spazio in continua crescita dove raccolgo appunti, idee e riflessioni.
+**Cicli astrologici e della storia degli sconfitti, degli estromessi e degli esclusi
+un'astrologia politica e mondiale per chi ha voglia di un comunismo gentile**
+
+Appunti, idee e riflessioni.
+[[Incipit\|Incipit]]
 Articoli pubblicati: [[Plutone e Urano\|Plutone e Urano]]
 
- 📚 Cosa trovi qui
+ 
+ **🧭 Da dove iniziare**
 
-- **Note** — pensieri in evoluzione, non articoli finiti
-- **Riflessioni** — spunti da libri, articoli e conversazioni
-- **Progetti** — cose che sto costruendo o esplorando
+Esplora liberamente: molte note sono collegate tra loro e crescono nel tempo. Alcune sono "mature", altre sono solo semi appena piantati.
 
-## 🧭 Da dove iniziare
-
-Esplora liberamente: le note sono collegate tra loro e crescono nel tempo. Alcune sono "matura", altre sono solo semi appena piantati. [[Incipit\|Incipit]]
-
-> "Un giardino digitale non è un blog: è un luogo che coltivi nel tempo."
 
 
 ---
