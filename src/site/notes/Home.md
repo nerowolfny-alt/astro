@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-
+#
 
 **Astrologia delle Trasformazioni Sociali e Culturali**
 
