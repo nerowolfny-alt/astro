@@ -15,6 +15,8 @@ Appunti, idee e riflessioni.
 [[Immaginazione\|Immaginazione]]
 
 [[Logica\|Logica]]
+
+[[Ponte\|Ponte]]
  
  **Da dove iniziare**
 
