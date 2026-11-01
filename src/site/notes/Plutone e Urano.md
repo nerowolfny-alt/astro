@@ -49,7 +49,6 @@ Per 2182 anni, tra il 404 a.C. e il 1777 d.C. non c’è nessuna compresenza com
 
 L’ordine di entrata si è invertito. Nel 1774-75 Urano entra nei Gemelli prima che Plutone si stabilizzi in Acquario (Plutone sfiora l’Acquario già nel 1777 ma ci entra davvero a fine 1778). Nel 2024-26 Plutone arriva in Acquario prima (sfiorandolo nel 2023, ingresso definitivo a novembre 2024) e Urano lo raggiunge dopo, tra il 2025 e il 2026. Nel 1781 la scoperta di Urano cade proprio dentro la prima compresenza piena. Nel ciclo di oggi la compresenza è più lunga: ~6 anni contro ~2,6.
 
-**Due correzioni a quanto ti ho detto prima**
 
-- Plutone entra in Acquario in modo definitivo a fine 1778, non nel 1777 (nel 1777 c’è solo uno sfioramento retrogrado).
-- Urano nel 1777 è a ~8° Gemelli, non a 15-17°.
+
+**[[Home\|Home]]**
