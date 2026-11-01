@@ -123,11 +123,11 @@ Il periodo A (1414-1402 a.C.) ha una struttura che somiglia al presente. I tre e
 
 **Architettura: le tre linee storiche**
 
-|Ambito|Cosa accade|
-|---|---|
-|**Egitto-Mitanni-Hatti**|Il sistema di potenze del Vicino Oriente si stabilizza. Tutmosi IV, di fronte alla minaccia ittita, negozia con il Mitanni un trattato di pace suggellato dal matrimonio con una principessa mitannica, e Alalakh passa al Mitanni. Gli egizi dovettero fare sette richieste di matrimonio prima che Artatama accettasse. Tutmosi IV regna c. 1401-1391 oppure 1397-1388 a.C.|
-|**Egeo**|Cnosso è sotto amministrazione micenea e compare il Lineare B, con una cronologia dibattuta (c. 1450 oppure c. 1375). Gli ittiti menzionano l’Ahhiyawa, in genere identificato con i micenei|
-|**Tradizioni fondative**|La data tradizionale dell’ingresso in Canaan (1406 a.C.) coincide con l’ingresso di Plutone in Acquario. È una tradizione, non un dato storico consolidato. I nomi del Mitanni (Artatama, “Ṛta-dhaman”) hanno radici indoarie [Thutmose IV +2](https://www.britannica.com/biography/Pharaoh-Thutmose-IV)|
+| Ambito                   | Cosa accade                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Egitto-Mitanni-Hatti** | Il sistema di potenze del Vicino Oriente si stabilizza. Tutmosi IV, di fronte alla minaccia ittita, negozia con il Mitanni un trattato di pace suggellato dal matrimonio con una principessa mitannica, e Alalakh passa al Mitanni. Gli egizi dovettero fare sette richieste di matrimonio prima che Artatama accettasse. Tutmosi IV regna c. 1401-1391 oppure 1397-1388 a.C. |
+| **Egeo**                 | Cnosso è sotto amministrazione micenea e compare il Lineare B, con una cronologia dibattuta (c. 1450 oppure c. 1375). Gli ittiti menzionano l’Ahhiyawa, in genere identificato con i micenei                                                                                                                                                                                  |
+| **Tradizioni fondative** | La data tradizionale dell’ingresso in Canaan (1406 a.C.) coincide con l’ingresso di Plutone in Acquario. È una tradizione, non un dato storico consolidato. I nomi del Mitanni (Artatama, “Ṛta-dhaman”) hanno radici indoarie .                                                                                                                                               |
 
 **Dinamica**
 
