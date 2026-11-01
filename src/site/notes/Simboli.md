@@ -2,4 +2,11 @@
 {"dg-publish":true,"permalink":"/simboli/","dg-note-properties":{}}
 ---
 
-[[Imaginazione\|Imaginazione]]
+[[Immaginazione\|Immaginazione]]
+
+[[Intuizione\|Intuizione]]
+
+[[Ponte\|Ponte]]
+
+[[Home\|Home]]
+
