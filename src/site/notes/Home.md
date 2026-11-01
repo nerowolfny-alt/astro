@@ -16,7 +16,7 @@ Appunti, idee e riflessioni.
 [[Incipit\|Incipit]]
 
 
-Articoli pubblicati: [[Plutone e Urano\|Plutone e Urano]], [[I cicli planetari dopo plutone, Ammonite in Sagittario, Sestile crescente, Tecniche di calcolo\|I cicli planetari dopo plutone, Ammonite in Sagittario, Sestile crescente, Tecniche di calcolo]]
+Articoli pubblicati: [[Plutone e Urano\|Plutone e Urano]], [[I cicli planetari dopo Plutone\|I cicli planetari dopo plutone]], [[Ammonite in Sagittario\|Ammonite in Sagittario]], [[Sestile crescente\|Sestile crescente]], [[Tecniche di calcolo\|Tecniche di calcolo]]
 
  
  **Da dove iniziare**
