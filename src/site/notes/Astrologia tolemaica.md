@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/astrologia-tolemaica/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/astrologia-tolemaica/","noteIcon":"","dg-note-properties":{}}
 ---
 
 [[Astrologia tradizionale, moderna e contemporanea\|Astrologia tradizionale, moderna e contemporanea]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/costruzione/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/costruzione/","noteIcon":"","dg-note-properties":{}}
 ---
 
 [[Logica\|Logica]]

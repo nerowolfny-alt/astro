@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plutone-e-urano/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/plutone-e-urano/","noteIcon":"","dg-note-properties":{}}
 ---
 
 Abbiamo una certa somiglianza tra il 1777 e il 2026, un intervallo di 249 anni, dopo un giro di [[Plutone\|Plutone]] ([[Ciclo\|Ciclo]] di rivoluzione ~248 anni) che torna così in [[Acquario\|Acquario]] mentre [[Urano\|Urano]] si ritrova in [[Gemelli\|Gemelli]]

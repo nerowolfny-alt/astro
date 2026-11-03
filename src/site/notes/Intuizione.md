@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/intuizione/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/intuizione/","noteIcon":"","dg-note-properties":{}}
 ---
 
 [[Immaginazione\|Immaginazione]]

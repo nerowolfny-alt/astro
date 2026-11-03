@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/simboli/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/simboli/","noteIcon":"","dg-note-properties":{}}
 ---
 
 [[Immaginazione\|Immaginazione]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prefazione/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/prefazione/","noteIcon":"","dg-note-properties":{}}
 ---
 
 PREFAZIONE 

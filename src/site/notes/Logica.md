@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/logica/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/logica/","noteIcon":"","dg-note-properties":{}}
 ---
 
 [[Ponte\|Ponte]]

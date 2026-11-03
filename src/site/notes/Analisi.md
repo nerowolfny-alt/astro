@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/analisi/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/analisi/","noteIcon":"","dg-note-properties":{}}
 ---
 
 [[Logica\|Logica]]

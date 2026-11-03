@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/immaginazione/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/immaginazione/","noteIcon":"","dg-note-properties":{}}
 ---
 
 [[Ponte\|Ponte]]

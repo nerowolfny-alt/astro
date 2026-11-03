@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ponte/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ponte/","noteIcon":"","dg-note-properties":{}}
 ---
 
 [[Immaginazione\|Immaginazione]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{"tags":null}}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","dg-note-properties":{"tags":null}}
 ---
 
 **Astrologia delle Trasformazioni Sociali e Culturali**
