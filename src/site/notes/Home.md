@@ -23,8 +23,5 @@ Appunti, idee e riflessioni.
 Esplora liberamente: molte note sono collegate tra loro e crescono nel tempo. Alcune sono "mature", altre sono solo semi appena piantati.
 
 
-
----
-
-[[Astro/Immagini/Sfondo sito GitHub.jpg\|Astro/Immagini/Sfondo sito GitHub.jpg]]
+![Sfondo Sito GitHub]
 
