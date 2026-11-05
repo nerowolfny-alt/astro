@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","dg-note-properties":{"tags":null}}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","dg-note-properties":{"tags":null,"cssclasses":null}}
 ---
 
 **Astrologia delle Trasformazioni Sociali e Culturali**
@@ -22,4 +22,4 @@ Appunti, idee e riflessioni.
 
 Esplora liberamente: molte note sono collegate tra loro e crescono nel tempo. Alcune sono "mature", altre sono solo semi appena piantati.
 
-![[Sfondo sito GitHub.PNG]]
+![[Sfondo-sito-GitHub.PNG]]
