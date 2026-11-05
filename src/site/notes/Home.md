@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","dg-note-properties":{"tags":null,"cssclasses":null}}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","dg-note-properties":{}}
 ---
 
 ![](/img/user/Immagini/Sfondo-sito-GitHub.PNG)
