@@ -10,17 +10,11 @@
 
 ##### **Per chi ha voglia di un comunismo gentile.**
 
-
+![](/img/user/Immagini/Infinito1.png)
 
 Appunti, idee e riflessioni.
 
-[[Immaginazione\|Immaginazione]]
 
-[[Logica\|Logica]]
-
-[[Ponte\|Ponte]]
- 
- **Da dove iniziare**
 
 Esplora liberamente: molte note sono collegate tra loro e crescono nel tempo. Alcune sono "mature", altre sono solo semi appena piantati.
 
