@@ -3,9 +3,7 @@
 ---
 
 ![](/img/user/Immagini/Sfondo-sito-GitHub.PNG)
-
 # Astrologia delle Trasformazioni Sociali e Culturali
-
 **Cicli astrologici nella storia degli sconfitti, dei reietti, degli estromessi, degli esclusi e di chi non ha voce: un'astrologia politica e mondiale. Per chi ha voglia di un comunismo gentile.**
 
 ![](/img/user/Immagini/Infinito1.png)
