@@ -22,4 +22,4 @@ Appunti, idee e riflessioni.
 
 Esplora liberamente: molte note sono collegate tra loro e crescono nel tempo. Alcune sono "mature", altre sono solo semi appena piantati.
 
-![sfondo-sito-github.png](/img/user/Immagini/Sfondo-sito-GitHub.PNG)
+![](/img/user/Immagini/Sfondo-sito-GitHub.PNG)
