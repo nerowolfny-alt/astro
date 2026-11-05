@@ -8,7 +8,7 @@
 
 ***Per chi ha voglia di un comunismo gentile.***
 
-
+![](/img/user/Immagini/Sfondo-sito-GitHub.PNG)
 
 Appunti, idee e riflessioni.
 
